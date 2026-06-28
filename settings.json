@@ -1,0 +1,20 @@
+{
+    "selected_market": "Crypto Market (Continuous 24/7)",
+    "enable_audio_alerts": true,
+    "show_system_notifications": true,
+    "close_minimizes_to_tray": true,
+    "timeframe_settings": {
+        "2 Hours": {
+            "mins": 120,
+            "buffer": "10 Seconds",
+            "sound": "Cash Register",
+            "enabled": false
+        },
+        "1 Minutes": {
+            "mins": 1,
+            "buffer": "45 Seconds",
+            "sound": "Cash Register",
+            "enabled": true
+        }
+    }
+}
